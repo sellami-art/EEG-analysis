@@ -4,5 +4,5 @@ This project simulates a basic EEG signal and performs simple statistical analys
 
 It generates a 10 Hz sinusoidal signal with noise, calculates the mean and variance, and plots the signal.
 
-Author: Sana Sellami  
+Author: Sana   
 Date: 2025  
